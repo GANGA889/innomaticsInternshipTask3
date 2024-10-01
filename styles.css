@@ -62,12 +62,12 @@
 
   .dark-blue-box {
     grid-area: dark-blue-box;
-    background-color: rgb(128, 128, 206);
+    background-color: blue;
   }
 
   header {
     grid-area: header;
-    background-color: rgb(135,206,235);
+    background-color: skyblue;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -90,7 +90,7 @@
   }
   
   .feature1 {
-    background-color: #FFFFC5;
+    background-color: yellow;
   }
   
   .feature2 {
@@ -98,7 +98,7 @@
   }
   
   .feature3 {
-    background-color: rgb(218, 111, 111);
+    background-color: red;
   }
   
   .signup {
